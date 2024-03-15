@@ -57,6 +57,6 @@ Order status can be updated to "devivered" by clickking on "ship"
 
 ### Calender
 
-![alt text](Calender.png) ![alt text](<Product Shipped-2-1.png>)
+![alt text](Calender.png) 
 
 By clicking on a particular calender date, you can see the details of orders.
